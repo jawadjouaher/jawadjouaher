@@ -1,4 +1,6 @@
 <h1>Hi, I'm Jawad! <br/><a href="https://github.com/jawadjouaher">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web/Front-end Developer</a>
+- <b>🌱 I’m currently in the final stage of my studies and simultaneously eager to embrace new learning opportunities. My focus lies in the exciting realms of IoT, coding, and networking—specifically in facilitating communication between robots. Engaged in collaborative team projects, we are exploring unique ideas aimed at creating efficient solutions with real-life applications
+
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -22,8 +24,7 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>
-🌱 I’m currently in the final stage of my studies and simultaneously eager to embrace new learning opportunities. My focus lies in the exciting realms of IoT, coding, and networking—specifically in facilitating communication between robots. Engaged in collaborative team projects, we are exploring unique ideas aimed at creating efficient solutions with real-life applications
+
 
 <h2> 🤳 Connect with me:</h2>
 
