@@ -22,6 +22,8 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
+<h2>
+🌱 I’m currently in the final stage of my studies and simultaneously eager to embrace new learning opportunities. My focus lies in the exciting realms of IoT, coding, and networking—specifically in facilitating communication between robots. Engaged in collaborative team projects, we are exploring unique ideas aimed at creating efficient solutions with real-life applications
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -31,7 +33,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/jawadjouaher/
-🌱 I’m currently in the final stage of my studies and simultaneously eager to embrace new learning opportunities. My focus lies in the exciting realms of IoT, coding, and networking—specifically in facilitating communication between robots. Engaged in collaborative team projects, we are exploring unique ideas aimed at creating efficient solutions with real-life applications
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
