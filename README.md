@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jawad! <br/><a href="https://github.com/jawadjouaher">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Front-end Developer</a></h1>
+<h1>Hi, I'm Jawad! <br/><a href="https://github.com/jawadjouaher">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web/Front-end Developer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -31,7 +31,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/jawadjouaher/
-
+🌱 I’m currently in the final stage of my studies and simultaneously eager to embrace new learning opportunities. My focus lies in the exciting realms of IoT, coding, and networking—specifically in facilitating communication between robots. Engaged in collaborative team projects, we are exploring unique ideas aimed at creating efficient solutions with real-life applications
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
