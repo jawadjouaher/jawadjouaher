@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> UI/UX development (App Design) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - https://www.figma.com/file/B7kJr23ouY1lovruaNrPzL/Group-1?type=design&node-id=0-1&mode=design
 - <b> Embedded Systems (Project - Smart Parking System)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
