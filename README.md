@@ -6,7 +6,7 @@
 - <b> UI/UX development (App Design) </b>
   - https://www.figma.com/file/B7kJr23ouY1lovruaNrPzL/Group-1?type=design&node-id=0-1&mode=design
 - <b> Embedded Systems (Project - Smart Parking System)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/jawadjouaher/Smart-Parking-System/tree/main)) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
